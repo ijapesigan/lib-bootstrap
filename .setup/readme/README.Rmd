@@ -19,7 +19,7 @@ nocite: |
   @Efron-2012
   @Hesterberg-2014
   @Hesterberg-2015
-  @Rousselet-2021
+  @Rousselet-Pernet-Wilcox-2021
   @Hall-2003
   @Boos-2003
   @Beran-2003
